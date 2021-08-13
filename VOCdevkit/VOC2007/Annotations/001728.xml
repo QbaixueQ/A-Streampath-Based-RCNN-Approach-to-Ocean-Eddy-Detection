@@ -1,0 +1,63 @@
+<?xml version="1.0" ?>
+<annotation>
+    <folder>AIA AUTO</folder>
+    <filename>000106_flip_type1.jpg</filename>
+    <source>
+        <database>The AUTO Database</database>
+        <annotation>AUTO by zxl</annotation>
+        <image>flickr</image>
+    </source>
+    <size>
+        <width>512</width>
+        <height>512</height>
+        <depth>3</depth>
+    </size>
+    <object>
+        <name>eddy</name>
+        <pose>front</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>277</xmin>
+            <ymin>434</ymin>
+            <xmax>384</xmax>
+            <ymax>511</ymax>
+        </bndbox>
+    </object>
+    <object>
+        <name>eddy</name>
+        <pose>front</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>79</xmin>
+            <ymin>440</ymin>
+            <xmax>160</xmax>
+            <ymax>486</ymax>
+        </bndbox>
+    </object>
+    <object>
+        <name>eddy</name>
+        <pose>front</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>235</xmin>
+            <ymin>302</ymin>
+            <xmax>263</xmax>
+            <ymax>327</ymax>
+        </bndbox>
+    </object>
+    <object>
+        <name>eddy</name>
+        <pose>front</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>363</xmin>
+            <ymin>284</ymin>
+            <xmax>412</xmax>
+            <ymax>312</ymax>
+        </bndbox>
+    </object>
+</annotation>
